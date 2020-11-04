@@ -26,10 +26,7 @@ public class Main {
            }
        }
 
-       // for (int j = 0; j < 5; j++){
-          //  mass[j] = mass[temp];
 
-        //}
         System.out.println(Arrays.toString(mass));
 
     }
